@@ -1,0 +1,32 @@
+﻿{
+  "id": 15,
+  "title": "Incident title",
+  "comments": "",
+  "category": {
+    "id": 1,
+    "name": "Security"
+  },
+  "location": {
+    "id": 16,
+    "latitude": "12.9231501",
+    "longitude": "74.7818517"
+  },
+  "incidentDate": "2020-09-01T13:26:00+0000",
+  "people": [
+    {
+      "id": 11,
+      "name": "Sachin",
+      "type": "staff"
+    },
+    {
+      "id": 12,
+      "name": "John",
+      "type": "witness"
+    },
+    {
+      "id": 13,
+      "name": "Smith",
+      "type": "staff"
+    }
+  ]
+}
